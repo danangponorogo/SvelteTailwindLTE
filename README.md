@@ -1,6 +1,6 @@
 SvelteTailwindLTE is a project that aims to create a tailwindcss based Svelte dashboard component and is inspired by the AdminLTE Bootstrap Admin Dashboard Template. This project uses designs from https://github.com/estevanmaito/windmill-dashboard
 
-# Windmill Dashboard
+# SvelteTailwindLTE
 
 A multi theme, completely accessible, with components and pages examples, ready for production dashboard.
 
@@ -36,6 +36,7 @@ Theme auto detection based on user's OS preferences and local settings storage a
 ## 🔮 Future
 
 TODO
+
 estevanmaito:
 - [ ] Make charts accessible through hidden data
 - [ ] Refactor and split `shadow-outline-<color>` plugin
